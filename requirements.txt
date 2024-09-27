@@ -1,5 +1,5 @@
 streamlit
-ifcopenshell
+ifcopenshell==0.7.10
 pandas
 langchain
 langchain_experimental
